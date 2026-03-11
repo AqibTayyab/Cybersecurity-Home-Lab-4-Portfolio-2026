@@ -102,7 +102,7 @@ Confirmed the network block on the Kali machine (connection terminated):
 
 ```Bash
 kex_exchange_identification: read: Connection reset by peer
-Connection reset by 192.168.150.172 port 22
+Connection reset by 192.168.--.-- port 22
 ```
 ### **Key Outcomes**
 * **Real-Time Mitigation:** Successfully blocked an active SSH brute-force attack in milliseconds, forcing a Connection Reset and proving the efficacy of automated incident response.
