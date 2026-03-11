@@ -33,7 +33,7 @@ To configure and validate automated incident response mechanisms within a SIEM e
 ### **Lab Architecture**
 * **Attacker:** Kali Linux (Executing offensive scripts).
 * **Defender/SIEM:** Ubuntu 25.10 (Hosting Wazuh Dashboard & Manager).
-* **Target:** Managed endpoint machine (IP: 192.168.150.172).
+* **Target:** Managed endpoint machine (IP: 192.168.--.--).
 
 ### **Step-by-Step Technical Execution**
 
